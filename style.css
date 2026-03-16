@@ -1,0 +1,64 @@
+
+body{
+font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+margin:0;
+background:#f6f8f6;
+color:#1f2a22;
+line-height:1.6;
+}
+
+header{
+background:#e5efe5;
+padding:40px 20px;
+text-align:center;
+}
+
+nav{
+background:#dce7dc;
+padding:12px;
+text-align:center;
+}
+
+nav a{
+margin:0 12px;
+text-decoration:none;
+color:#1f2a22;
+font-weight:600;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+padding:40px 20px;
+}
+
+.hero h1{
+font-size:34px;
+margin-bottom:10px;
+}
+
+.cta{
+margin-top:20px;
+}
+
+.button{
+display:inline-block;
+padding:12px 18px;
+background:#3f6f59;
+color:white;
+border-radius:6px;
+text-decoration:none;
+margin:5px;
+}
+
+.section{
+margin-top:40px;
+}
+
+footer{
+background:#e5efe5;
+text-align:center;
+padding:20px;
+margin-top:40px;
+font-size:14px;
+}
